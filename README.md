@@ -7,14 +7,14 @@ Requires numpy, pandas, matplotlib, plotly
 
 
 # Raw datasets
-us-states.csv
-mask-mandate.tsv
-full-history-tsv
+us-states.csv (src: data.world)  
+mask-mandate.tsv (src: Wikipedia)  
+full-history-tsv (src: Bloomberg)  
 
 # Processed datasets
 out2.csv (contains 'covid entry' items from video)  
 statedata.tsv (contains 'state' items from video)  
-population.tsv (contains population attribute of states)  
+population.tsv (contains population attribute of states) (src: Bloomberg)    
 
 # Other 
 process-1.py  
