@@ -2,7 +2,7 @@
 
 # Running
 
-Run main.py using Python 3
+Run main.py using Python 3  
 Requires numpy, pandas, matplotlib, plotly  
 
 
